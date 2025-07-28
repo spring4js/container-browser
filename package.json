@@ -1,5 +1,5 @@
 {
-  "name": "@spring4js/template-ts",
+  "name": "@spring4js/container-browser",
   "version": "1.0.0",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
@@ -12,12 +12,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spring4js/template-ts.git"
+    "url": "git+https://github.com/spring4js/container-browser.git"
   },
   "bugs": {
-    "url": "https://github.com/spring4js/template-ts/issues"
+    "url": "https://github.com/spring4js/container-browser/issues"
   },
-  "homepage": "https://github.com/spring4js/template-ts#readme.md",
+  "homepage": "https://github.com/spring4js/container-browser#readme.md",
   "publishConfig": {
     "access": "public"
   },
